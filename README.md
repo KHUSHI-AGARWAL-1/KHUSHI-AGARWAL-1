@@ -7,6 +7,7 @@ A passionate software engineer from India
 * 🌍  I'm based in India
 * ✉️  You can contact me at [khushiag23032003@gmail.com](mailto:khushiag23032003@gmail.com)
 * 🧠  I'm learning React Native
+* 🧠 Visit my Portfolio (https://khushi-portfolio-virid.vercel.app/)
 
 ### Skills
 
