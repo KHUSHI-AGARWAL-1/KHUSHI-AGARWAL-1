@@ -14,18 +14,30 @@ A passionate software engineer from India
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
-### 💼 Internship Experience
+### Internship Experience
 
 **Software Developer Intern**  
-🚀 _ABC Tech Solutions_  
-🗓️ _Jan 2025 – Apr 2025_  
+🚀 _Otipy_  
+🗓️ _Nov 2024 – May 2025_  
 📍 _Remote_  
-**Tech Stack:** React, Node.js, MongoDB, Express
+**Tech Stack:** React Native, Redux, MQTT
 
-- Built and optimized frontend components using **React.js** and **Tailwind CSS**.
-- Designed RESTful APIs and integrated them with frontend using **Axios**.
-- Implemented secure user authentication with **JWT** and **bcrypt.js**.
-- Collaborated in Agile sprints and used **Git/GitHub** for version control.
+- Developed a Picker App to streamline warehouse operations including Order Picking, Put-Away, Cycle
+ Counting, and Expiry Auditing
+- Built custom state management logic using Redux for handling picker workflows and real-time activity
+ tracking, Integrated barcode scanning, and intuitive UI/UX for seamless picker experience
+- Managed end-to-end deployment on App Store / Play Store, including release builds,
+- Worked on Otipy’s main production app, contributing to the development of key features like FlashDeals
+ Management.
+- Took initiative to learn and implement new React Native architecture and adopted latest React Native
+ versions to align with modern best practices
+- Implemented performance improvements through techniques like component memoization, lazy loading, and
+ selective rendering, enhancing app responsiveness and ensuring smooth performance on low-end Android
+ devices.
+- Upgraded the app’s React Native version and migrated to the latest architecture, improving performance,
+ compatibility, and maintainability.
+- Resolved several complex Firebase-related issues in production, including authentication bugs, data sync
+ problems resulting in improved app stability and a better user experience.
 
 ### Socials
 
